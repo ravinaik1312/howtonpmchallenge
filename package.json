@@ -1,0 +1,25 @@
+{
+  "name": "howtonpmchallenge",
+  "version": "1.0.0",
+  "description": "Ravi's npm how to challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ravinaik1312/howtonpmchallenge.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ravi Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravinaik1312/howtonpmchallenge/issues"
+  },
+  "homepage": "https://github.com/ravinaik1312/howtonpmchallenge#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
